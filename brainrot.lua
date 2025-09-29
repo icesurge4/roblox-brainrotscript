@@ -1,4 +1,4 @@
-[12:12, 9/29/2025] Тимур: local Players = game:GetService("Players")
+game:GetService("Players")
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 
